@@ -373,7 +373,7 @@ header {
 }
 
 .ui-steps li:not(:last-child) {
-  border-bottom: 1px solid #f8e3f0;
+  border-bottom: 1px solid #8cc631;
 }
 
 .perspective-phone {
@@ -422,7 +422,7 @@ header {
   padding: 1rem 1rem;
   border-color: #faf6fb #faf6fb #fff;
   font-size: 19px;
-  color: #b5a4c8;
+  color: #8cc631;
   background: #f5eff7;
 }
 
@@ -615,13 +615,13 @@ header {
   line-height: 50px;
   margin: 0 0.3rem;
   border-radius: 5px;
-  color: #f4c9e2;
+  color: #8cc631;
   transition: all 0.3s ease;
 }
 
 .social-icons a:hover {
   text-decoration: none;
-  color: #e38cb7;
+  color: #009245;
 }
 
 @media (max-width: 991px) {
